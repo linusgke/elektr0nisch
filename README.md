@@ -19,5 +19,5 @@ I am a student who is very interested in programming!
 
 ### ✉ Contact me
 
-<a href="mailto:linus@elektronisch.dev"><img src="https://img.shields.io/badge/✉ e--mail-gray.svg?style=for-the-badge" /></a>&nbsp;&nbsp;
+<a href="mailto:contact@elektronisch.dev"><img src="https://img.shields.io/badge/✉ e--mail-gray.svg?style=for-the-badge" /></a>&nbsp;&nbsp;
 <a href="https://matrix.to/#/@elektr0nisch:matrix.org"><img src="https://img.shields.io/badge/matrix-black.svg?logo=matrix&style=for-the-badge" /></a>&nbsp;&nbsp;
