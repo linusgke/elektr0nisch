@@ -15,7 +15,7 @@ Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thir
 <a href="https://climatejustice.rocks/@elektr0nisch"><img src="https://img.shields.io/badge/mastodon-elektr0nisch-pink.svg?logo=mastodon&style=for-the-badge" /></a>&nbsp;&nbsp;<br/><br/>
 <a href="mailto:contact@elektronisch.dev"><img src="https://img.shields.io/badge/✉ e--mail-gray.svg?style=for-the-badge" /></a>&nbsp;&nbsp;
 <a href="https://threema.id/H57KM7KK"><img src="https://img.shields.io/badge/threema-darkblue.svg?logo=threema&style=for-the-badge" /></a>&nbsp;&nbsp;
-<a href="https://matrix.to/#/@elektr0nisch:matrix.org"><img src="https://img.shields.io/badge/matrix-black.svg?logo=matrix&style=for-the-badge" /></a>&nbsp;&nbsp;
+<a rel="me" href="https://matrix.to/#/@elektr0nisch:matrix.org"><img src="https://img.shields.io/badge/matrix-black.svg?logo=matrix&style=for-the-badge" /></a>&nbsp;&nbsp;
 
 ### ☕ Support me
 
